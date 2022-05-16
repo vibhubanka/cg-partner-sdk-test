@@ -22,7 +22,7 @@ function App() {
         </header>
       </div>
 
-      <div id="quillbot-citation-generator"></div>
+      {/* <div id="quillbot-citation-generator"></div> */}
     </>
   );
 }
